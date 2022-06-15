@@ -5,4 +5,4 @@ Projects for a course on Markov Decision Processes and Reinforcement Learning
 
 ## Project 2 - Optimal Strategy for two player PIG
 
-## Project 3 - Can't Stop AI
+## Final Project - Can't Stop AI
